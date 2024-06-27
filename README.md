@@ -13,9 +13,9 @@ Welcome to my project repository! This project showcases my skills in file handl
 - **Regular Expressions** 🔎
 - **File Encoding** 🔤
 
-## 📄File Handling
+## File Handling
 
-### Text Files
+### 📄TXT Files
 
 Efficiently read from and write to text files, ensuring proper handling of file operations.
 
